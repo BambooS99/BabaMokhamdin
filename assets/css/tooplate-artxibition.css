@@ -599,7 +599,7 @@ banner
 */
 
 .main-banner {
-  background-image: url(../images/banner_bg.jpg);
+  background-image: url(../images/PICS/Cover.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
@@ -616,7 +616,7 @@ banner
 .main-banner h2 {
   font-size: 50px;
   font-weight: 800;
-  color: #fff;
+  color: #1e1e1e;
   margin-top: 20px;
   margin-bottom: 30px;
 }
